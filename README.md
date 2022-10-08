@@ -1,5 +1,3 @@
 # ProyectoEjemplo
 Primer repositorio GitHub
-
-Autor: Camilo Mansilla
-dsadsadas
+Fecha: 10/10/2022
